@@ -81,3 +81,12 @@ Para usar los dos a la vez, tenemos que usar 3 a cada lado de la frase.
     ___nuestroTexto***
 
 ## Listas
+
+Para escribir listas ordenadas utilizamos los carácteres *, - ó +.
+
+    - Hola
+    - Adiós
+    + Hola 
+    + Adiós
+    * Hola
+    * Adiós 
