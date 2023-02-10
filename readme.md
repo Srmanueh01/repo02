@@ -12,3 +12,26 @@ Existen muchos sitios donde podemos trabajar con MarkDown, entre ellos:
 + Stack Overflow
 
 ## Sintaxtis de Markdown
+
+Gracias a MD, podemos crear un archivo de aspecto bonito gracias a sus características.
+
+Para realizar encabezados:
+
+  #Encabezado h1   
+  \## Encabezado h2  
+  \### Encabezado h3  
+  \#### Encabezado h4  
+  \##### Encabezado h5  
+  \###### Encabezado h6
+
+## Saltos de línea
+
+Si queremos hacer un salto de linea, tenemos que hacer dos espacios (tecla espaciadora).
+
+## Párrafos
+
+Para realizar párrafos, es lo más sencillo, simplemente escribimos lo que queramos.
+
+## Líneas sin contenido:
+
+Para dejar una línea totalmente vacía, simplemente usamos la tecla enter.
