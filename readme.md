@@ -57,3 +57,27 @@ Tenemos dos tipos:
     \<!--Comentario  
 multilínea  
 que debe ir solo-->
+
+
+## Letra en negrita
+
+Para crear frases en negrita, podemos hacerlo de dos maneras:
+
+    **nuestroTexto**  
+    __nuestroTexto__
+
+## Cursiva
+
+Si para hacer texto en negrita usábamos dos asteríscos, o barra baja, en este caso solo es una en casa lado.
+
+    *nuestroTexto*
+    _nuestroTexto*
+
+## Cursiva + Negrita
+
+Para usar los dos a la vez, tenemos que usar 3 a cada lado de la frase.
+
+    ***nuestroTexto***
+    ___nuestroTexto***
+
+## Listas
