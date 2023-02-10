@@ -35,3 +35,25 @@ Para realizar párrafos, es lo más sencillo, simplemente escribimos lo que quer
 ## Líneas sin contenido:
 
 Para dejar una línea totalmente vacía, simplemente usamos la tecla enter.
+
+
+## Comentarios
+
+Tenemos dos tipos:  
+
++ Comentarios junto al elemento.  
+   
+  Texto que queremos \<!-- Comentario -->
++ Comentarios que no pueden estar en la misma línea con otro elemento.  
+  
+  \[comment]: <> (Comentario que debe ir solo)
+
+  \[//]: <> (Comentario que debe ir solo)
+
+  \[//]: # (Comentario que debe ir solo)
+
+  \<!--Comentario que puede ir o no solo-->
+
+    \<!--Comentario  
+multilínea  
+que debe ir solo-->
